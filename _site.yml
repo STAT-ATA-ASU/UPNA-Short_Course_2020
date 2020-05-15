@@ -1,0 +1,22 @@
+name: "short-course"
+output_dir: "docs"
+navbar:
+  title: "UPNA Short Course: May 2020"
+  left:
+    - text: "Resources"
+      href: https://alanarnholt.github.io/resources.html
+    
+      
+     
+  right:
+    - text: "Alan T. Arnholt"
+      href: https://alanarnholt.github.io 
+    - icon: fa-github fa-lg
+      href: https://github.com/STAT-ATA-ASU/STT2820/         
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css  
