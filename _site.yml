@@ -1,7 +1,7 @@
 name: "short-course"
 output_dir: "."
 navbar:
-  title: "UPNA Short Course: May 2020"
+  title: "UPNA Short Course: May 25-27, 2020"
   left:
     - text: "Resources"
       href: https://alanarnholt.github.io/resources.html
