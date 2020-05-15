@@ -1,5 +1,5 @@
 name: "short-course"
-output_dir: "docs"
+output_dir: "."
 navbar:
   title: "UPNA Short Course: May 2020"
   left:
