@@ -6,7 +6,7 @@ title: "¡Bienvenidos al curso!"
 
 * [Data Science with R](https://stat-ata-asu.github.io/R_DS_BD2020/)
 
-* [R Markdown activity]()
+* [R Markdown activity](https://rstudio.cloud/project/1292660)
 
 * [Predictive Model Building](https://stat-ata-asu.github.io/PredictiveModelBuilding/)
 
